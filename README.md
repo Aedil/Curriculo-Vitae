@@ -31,8 +31,7 @@
 				  <span class="locality">Rio de Janeiro</span>
 				, 
 				  <span class="region">Rio de Janeiro</span>
-		</div>
-		<div>
+		                </div>
 		</div>
 
 		<div class="secao">
