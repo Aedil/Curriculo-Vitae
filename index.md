@@ -153,4 +153,3 @@
 			<li id="1-fn">Microformato <a href="#fn1" title="volte">^</a></li>
 		</div>		
 	</body>
-</html>
