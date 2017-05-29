@@ -32,13 +32,15 @@
 				, 
 				  <span class="region">Rio de Janeiro</span>
 		</div>
+		<div>
+		</div>
 
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
 			<p><label>Empresa</label> Lagesolos (2008 - 2009)</p>
 			<p><label>Empresa</label> Contax (2009 - 2012)</p>
-			<p><label>Empresa</label> SAP (2014 - 2016)</p>
+			<p><label>Empresa</label> SAP (2014 - atualmente)</p>
 		</div>
 
 		<div class="secao">
