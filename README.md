@@ -23,7 +23,7 @@ Trabalho de CV - Web
 				 <span class="given-name">Aédil</span>
 				  <span class="additional-name">Capovilla</span>
 				  <span class="family-name">Jerdy</span>
-				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
+				<sup><a href="#1-fn" id="fn1" title="Veja o Rodapé">1</a></sup>
 
 				 <a class="email" href="mailto:aedil.jerdy@gmail.com">aedil.jerdy@gmail.com</a>
 				
@@ -31,7 +31,8 @@ Trabalho de CV - Web
 				  <span class="locality">Rio de Janeiro</span>
 				, 
 				  <span class="region">Rio de Janeiro</span>
-
+				  <div>
+				  </div>
 				 </div>
 				</div>
 		</div>
@@ -39,16 +40,16 @@ Trabalho de CV - Web
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
-			<p><label>Empresa</label>Lagesolos</p>
-			<p><label>Empresa</label>Contax</p>
-			<p><label>Empresa</label>SAP</p>
+			<p><label>Empresa</label> Lagesolos</p>
+			<p><label>Empresa</label> Contax</p>
+			<p><label>Empresa</label> SAP</p>
 		</div>
 
 		<div class="secao">
 			<h2>Formação Acadêmica</h2>
 			
-			<p><label>Curso</label>Geografia</p>
-			<p><label>Curso</label>Sistemas de Informação</p>
+			<p><label>Curso</label> Geografia</p>
+			<p><label>Curso</label> Sistemas de Informação</p>
 		</div>
 
 		<div class="secao">
@@ -57,24 +58,29 @@ Trabalho de CV - Web
 				<thead>
 				<tr>
 					<th>Curso</th>
+					<th>Campus</th>
 					<th>Carga horária</th>
 				</tr>
 				</thead>
 				<tr class="par">
-					<td>Pontos de Função</td>
-					<td>40h</td>
+					<td>Inglês</td>
+					<td>Alba idiomas</td>
+					<td>120h</td>
 				</tr>
 				<tr class="impar">
-					<td>Testes de Software</td>
+					<td>Adobe Photoshop</td>
+					<td>Red Zero</td>
 					<td>40h</td>
 				</tr>
 				<tr class="par">
-					<td>Ferramenta de Testes de Software</td>
-					<td>16h</td>
+					<td>Adobe Illustrator</td>
+					<td>Red Zero</td>
+					<td>20h</td>
 				</tr>
 				<tr class="impar">
-					<td>Requisitos de Software</td>
-					<td>24h</td>
+					<td>Adobe Flash</td>
+					<td>Red Zero</td>
+					<td>16h</td>
 				</tr>
 			</table>			
 		</div>
@@ -92,15 +98,21 @@ Trabalho de CV - Web
 				</thead>
 				<tr class="par">
 					<td>Inglês</td>
-					<td class="bom">Bom</td>
-					<td class="bom">Bom</td>
-					<td class="otimo">Ótimo</td>
+					<td class="intermediario">Intermediário</td>
+					<td class="intermediario">Intermediário</td>
+					<td class="avancado">Avançado</td>
 				</tr>
 				<tr class="impar">
 					<td>Espanhol</td>
-					<td class="ruim">Ruim</td>
-					<td class="ruim">Ruim</td>
-					<td class="regular">Regular</td>
+					<td class="basico">Básico</td>
+					<td class="intermediario">Intermediário</td>
+					<td class="intermediario">Intermediário</td>
+				</tr>
+				<tr class="par">
+					<td>Francês</td>
+					<td class="basico">Básico</td>
+					<td class="basico">Básico</td>
+					<td class="intermediario">Intermediário</td>
 				</tr>
 			</table>			
 		</div>
@@ -124,7 +136,6 @@ Trabalho de CV - Web
 		
 		<div id="footnote">
 			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
-			<li>Este <a href="http://microformats.org/wiki/hcard">hCard</a> foi criado com <a href="http://microformats.org/code/hcard/creator">hCard creator</a>.</li>
 		</div>		
 	</body>
 </html>
