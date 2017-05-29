@@ -39,9 +39,24 @@
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
-			<p><label>Empresa</label> Lagesolos (2008 - 2009)</p>
-			<p><label>Empresa</label> Contax (2009 - 2012)</p>
-			<p><label>Empresa</label> SAP (2014 - atualmente)</p>
+			<dl>
+            <dt><h1>Lagesolos UFRJ</h1></dt>
+            <dd>2008 - 2009</dd>
+            <dd>Rio de Janeiro</dd>       
+            <dd>Estagiário</dd>
+                       </dl>
+		       <dl>
+            <dt><h1>Contax</h1></dt>
+            <dd>2009 - 2011</dd>
+            <dd>Rio de Janeiro</dd>
+            <dd>Back Office</dd>
+                       </dl>
+		       <dl>
+            <dt><h1>SAP</h1></dt>
+            <dd>2014 - atualmente</dd>
+            <dd>Rio de Janeiro</dd>
+            <dd>Suporte Técnico</dd>
+                       </dl>
 		</div>
 
 		<div class="secao">
