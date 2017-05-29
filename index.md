@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # Trabalho de CV - Web
 
 <html>
@@ -52,7 +53,7 @@
             <dd>Back Office</dd>
                        </dl>
 		       <dl>
-            <dt>SAP</dt>
+            <dt>SAP Ariba</dt>
             <dd>2014 - atualmente</dd>
             <dd>Rio de Janeiro</dd>
             <dd>Suporte Técnico</dd>
