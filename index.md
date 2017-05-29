@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 # Trabalho de CV - Web
 
 <html>
