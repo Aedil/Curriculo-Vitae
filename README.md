@@ -13,7 +13,7 @@
 		<img src="1.jpg" tittle="Foto de Currículo" width=300 height=100/>
 				  		
 		<ul id="menu">
-			<li><a href="cv-resumido.html">Resumido</a></li>
+			<li><a href="CURRICULUM VITAE.docx">Resumido</a></li>
 			<li class="ativo">Completo</li>
 		</ul>
 		
