@@ -46,7 +46,7 @@
             <dd>Estagiário</dd>
                        </dl>
 		       <dl>
-            <dt>Contax</dt>
+            <dt>Contax Participações S.A.</dt>
             <dd>2009 - 2011</dd>
             <dd>Rio de Janeiro</dd>
             <dd>Back Office</dd>
@@ -78,7 +78,7 @@
 				</thead>
 				<tr class="par">
 					<td>Inglês</td>
-					<td>Alba idiomas</td>
+					<td>Yes!</td>
 					<td>120h</td>
 				</tr>
 				<tr class="impar">
@@ -146,7 +146,8 @@
 			<input type="submit" value="enviar"/>
 			</fieldset>
 		</form>
-
+		<p>
+		</p>
 		
 		<div id="footnote">
 			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
