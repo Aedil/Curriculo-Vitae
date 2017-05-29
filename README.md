@@ -33,7 +33,9 @@
 				  <span class="region">Rio de Janeiro</span>
 		                </div>
 		</div>
-
+		<p>
+		</p>
+		
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
