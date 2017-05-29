@@ -46,13 +46,13 @@
             <dd>Estagiário</dd>
                        </dl>
 		       <dl>
-            <dt><h1>Contax</h1></dt>
+            <dt>Contax</dt>
             <dd>2009 - 2011</dd>
             <dd>Rio de Janeiro</dd>
             <dd>Back Office</dd>
                        </dl>
 		       <dl>
-            <dt><h1>SAP</h1></dt>
+            <dt>SAP</dt>
             <dd>2014 - atualmente</dd>
             <dd>Rio de Janeiro</dd>
             <dd>Suporte Técnico</dd>
@@ -72,7 +72,7 @@
 				<thead>
 				<tr>
 					<th>Curso</th>
-					<th>Campus</th>
+					<th>Instituição</th>
 					<th>Carga horária</th>
 				</tr>
 				</thead>
@@ -83,17 +83,17 @@
 				</tr>
 				<tr class="impar">
 					<td>Adobe Photoshop</td>
-					<td>Red Zero</td>
+					<td>AIS</td>
 					<td>40h</td>
 				</tr>
 				<tr class="par">
 					<td>Adobe Illustrator</td>
-					<td>Red Zero</td>
+					<td>AIS</td>
 					<td>20h</td>
 				</tr>
 				<tr class="impar">
 					<td>Adobe Flash</td>
-					<td>Red Zero</td>
+					<td>AIS</td>
 					<td>16h</td>
 				</tr>
 			</table>			
