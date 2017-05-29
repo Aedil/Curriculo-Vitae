@@ -13,8 +13,8 @@
 		<p><img src="1.jpg" tittle="Foto de Curriculo" class="photo"/></p>
 				  		
 		<ul id="menu">
-			<li><a href="CURRICULUM VITAE.docx">Resumido</a></li>
-			<li class="ativo">Completo</li>
+			<li><a href="CURRICULUM VITAE.docx">Completo</a></li>
+			<li class="ativo">Resumo On-Line</li>
 		</ul>
 		
 		<div class="secao">
@@ -40,7 +40,7 @@
 			<h2>Dados Profissionais</h2>
 			
 			<dl>
-            <dt><h1>Lagesolos UFRJ</h1></dt>
+            <dt>Lagesolos UFRJ</dt>
             <dd>2008 - 2009</dd>
             <dd>Rio de Janeiro</dd>       
             <dd>Estagiário</dd>
