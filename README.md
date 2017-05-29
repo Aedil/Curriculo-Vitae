@@ -1,5 +1,5 @@
-# curriculo
-Trabalho de CV - Web
+# Trabalho de CV - Web
+
 <html>
 	<head>
 		<title>Curriculo Vitae</title>
@@ -31,25 +31,21 @@ Trabalho de CV - Web
 				  <span class="locality">Rio de Janeiro</span>
 				, 
 				  <span class="region">Rio de Janeiro</span>
-				  <div>
-				  </div>
-				 </div>
-				</div>
 		</div>
 
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
-			<p><label>Empresa</label> Lagesolos</p>
-			<p><label>Empresa</label> Contax</p>
-			<p><label>Empresa</label> SAP</p>
+			<p><label>Empresa</label> Lagesolos (2008 - 2009)</p>
+			<p><label>Empresa</label> Contax (2009 - 2012)</p>
+			<p><label>Empresa</label> SAP (2014 - 2016)</p>
 		</div>
 
 		<div class="secao">
 			<h2>Formação Acadêmica</h2>
 			
-			<p><label>Curso</label> Geografia</p>
-			<p><label>Curso</label> Sistemas de Informação</p>
+			<p><label>Curso</label> Geografia (UFRJ)</p>
+			<p><label>Curso</label> Sistemas de Informação (UVA)</p>
 		</div>
 
 		<div class="secao">
