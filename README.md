@@ -10,7 +10,7 @@
 	<body>
 		<h1>Currículo Vitae</h1>
 
-		<img src="1.jpg" tittle="Foto de Currículo" width=300 height=100>
+		<img src="1.jpg" tittle="Foto de Curriculo" width=300 height=100 class="photo"/>
 				  		
 		<ul id="menu">
 			<li><a href="CURRICULUM VITAE.docx">Resumido</a></li>
