@@ -10,7 +10,7 @@ Trabalho de CV - Web
 	<body>
 		<h1>Currículo Vitae</h1>
 
-		<img src="http://br.gravatar.com/userimage/14935412/cef5ab9d2ae46b1f6371dddbc99f667e.jpg?size=200" alt="photo of Ademir" class="photo"/>
+		<img src="1.jpg" tittle="Foto de Currículo" width=300 height=100/>
 				  		
 		<ul id="menu">
 			<li><a href="cv-resumido.html">Resumido</a></li>
@@ -19,19 +19,18 @@ Trabalho de CV - Web
 		
 		<div class="secao">
 			<h2>Dados Pessoais</h2>			
-				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
-				 <span class="given-name">Ademir</span>
-				  <span class="additional-name">Mazer</span>
-				  <span class="family-name">Jr</span>
+				<div id="hcard-Aedil-Capovilla-Jerdy" class="vcard">
+				 <span class="given-name">Aédil</span>
+				  <span class="additional-name">Capovilla</span>
+				  <span class="family-name">Jerdy</span>
 				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
 
-				 <a class="email" href="mailto:ademir.mazer.jr@gmail.com">ademir.mazer.jr@gmail.com</a>
-				 <a class="url" href="http://ademir.winponta.com.br">http://ademir.winponta.com.br</a>
+				 <a class="email" href="mailto:aedil.jerdy@gmail.com">aedil.jerdy@gmail.com</a>
 				
 				<div class="adr">
-				  <span class="locality">Ponta Grossa</span>
+				  <span class="locality">Rio de Janeiro</span>
 				, 
-				  <span class="region">Paraná</span>
+				  <span class="region">Rio de Janeiro</span>
 
 				 </div>
 				</div>
@@ -40,18 +39,16 @@ Trabalho de CV - Web
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
-			<p><label>Empresa</label>UTFPR</p>
-			<p><label>Empresa</label>Copel</p>
-			<p><label>Empresa</label>Winponta</p>
+			<p><label>Empresa</label>Lagesolos</p>
+			<p><label>Empresa</label>Contax</p>
+			<p><label>Empresa</label>SAP</p>
 		</div>
 
 		<div class="secao">
 			<h2>Formação Acadêmica</h2>
 			
-			<p><label>Curso</label>Mestrando Engenharia de Produção</p>
-			<p><label>Curso</label>Especialista Linguagem Java</p>
-			<p><label>Curso</label>Especialista Ciências da Computação</p>
-			<p><label>Curso</label>Bacharel Informática</p>
+			<p><label>Curso</label>Geografia</p>
+			<p><label>Curso</label>Sistemas de Informação</p>
 		</div>
 
 		<div class="secao">
