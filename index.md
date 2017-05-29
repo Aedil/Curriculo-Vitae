@@ -94,7 +94,7 @@
 				<tr class="impar">
 					<td>Adobe Flash</td>
 					<td>AIS</td>
-					<td>16h</td>
+					<td>20h</td>
 				</tr>
 			</table>			
 		</div>
@@ -150,7 +150,7 @@
 		</p>
 		
 		<div id="footnote">
-			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
+			<li id="1-fn">Microformato <a href="#fn1" title="volte">^</a></li>
 		</div>		
 	</body>
 </html>
