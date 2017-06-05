@@ -13,6 +13,12 @@
 		.avancado {
 			color: black;
 			}
+		.par {
+			color: black, bold;
+			}
+		.impar {
+			color: blue, bold;
+			}
 		</style>
 	</head>
 	
