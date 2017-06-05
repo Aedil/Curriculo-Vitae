@@ -19,6 +19,9 @@
 		.impar {
 			color: lightblue;
 			}
+		.lingua {
+			color: gray11;
+			}
 		</style>
 	</head>
 	
@@ -125,19 +128,19 @@
 					<th>Leitura</th>
 				</tr>
 				</thead>
-				<tr class="par">
+				<tr class="lingua">
 					<td>Inglês</td>
 					<td class="intermediario">Intermediário</td>
 					<td class="intermediario">Intermediário</td>
 					<td class="avancado">Avançado</td>
 				</tr>
-				<tr class="impar">
+				<tr class="lingua">
 					<td>Espanhol</td>
 					<td class="basico">Básico</td>
 					<td class="intermediario">Intermediário</td>
 					<td class="intermediario">Intermediário</td>
 				</tr>
-				<tr class="par">
+				<tr class="lingua">
 					<td>Francês</td>
 					<td class="basico">Básico</td>
 					<td class="basico">Básico</td>
