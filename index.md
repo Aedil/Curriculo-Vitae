@@ -4,15 +4,17 @@
 		<title>Curriculo Vitae</title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<style type="text/css">
 		.basico {
-			color="lightgrey"; 
+			color: lightgrey; 
 			}
 		.intermediario {
-			color="grey";
+			color: grey;
 			}
 		.avancado {
-			color="black";
+			color: black;
 			}
+		</style>
 	</head>
 	
 	<body>
