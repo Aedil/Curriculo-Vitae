@@ -17,10 +17,11 @@
 			color: darkgray;
 			}
 		.impar {
-			color: lightblue;
+			color: snow2;
 			}
 		.lingua {
 			color: gray11;
+			font-weight: bold;
 			}
 		</style>
 	</head>
