@@ -14,10 +14,10 @@
 			color: black;
 			}
 		.par {
-			color: black, strong;
+			color: darkgray;
 			}
 		.impar {
-			color: blue;
+			color: lightblue;
 			}
 		</style>
 	</head>
