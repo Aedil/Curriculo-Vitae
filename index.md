@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+#Trabalho Curriculo-Vitae
 <html>
 	<head>
 		<title>Curriculo Vitae</title>
@@ -162,5 +162,3 @@
 		<div id="footnote">
 			<li id="1-fn">Microformato <a href="#fn1" title="volte">^</a></li>
 		</div>		
-	</body>
-</html>
